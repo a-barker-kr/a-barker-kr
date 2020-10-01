@@ -9,15 +9,24 @@ Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.c
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=a-barker-kr.a-barker-kr)
 
 
 - 👨‍🎓 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects and become a better leader
 - 🎮 Fun fact: I love to playing games in my free time
 
+<br>
+
+
 ### Spotify Playing 🎧
 
 [<img src="https://a-barker-kr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/a_barker3)
+
+<br>
+
+### Developer Joke 🤡
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### Connect with me:
 
