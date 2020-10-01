@@ -54,6 +54,10 @@ Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.c
 <br />
 <br />
 
+### :zap: Recent Github Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ---
 
 
