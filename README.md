@@ -65,12 +65,9 @@
 
 <!-- </details> -->
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+ ###:zap: GitHub Stats
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=a-barker-kr)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
