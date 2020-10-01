@@ -56,6 +56,7 @@ Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.c
 
 ### :zap: Recent Github Activity
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/a-barker-kr/a-barker-kr/issues/1) in [a-barker-kr/a-barker-kr](https://github.com/a-barker-kr/a-barker-kr)
 <!--END_SECTION:activity-->
 
 ---
