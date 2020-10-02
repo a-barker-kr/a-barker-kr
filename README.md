@@ -67,6 +67,11 @@ const andrew = {
 <br />
 <br />
 
+### My Recent Commits
+<!-- START gadpp -->
+
+---
+
 ### :zap: Recent Github Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/a-barker-kr/a-barker-kr/issues/1) in [a-barker-kr/a-barker-kr](https://github.com/a-barker-kr/a-barker-kr)
@@ -79,9 +84,8 @@ const andrew = {
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=a-barker-kr)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+[facebook]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
