@@ -35,7 +35,7 @@ const andrew = {
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.icons8.com/color/344/facebook.png" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.icons8.com/color/344/facebook.png" />][facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/fluent/344/twitter.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/fluent/344/linkedin.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/windows/344/instagram-new.png" />][instagram]
@@ -86,7 +86,7 @@ const andrew = {
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=a-barker-kr)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/null__p01nt3r
 [facebook]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://instagram.com/null__p01nt3r
 [linkedin]: https://linkedin.com/in/codeSTACKr
