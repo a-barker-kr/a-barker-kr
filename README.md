@@ -7,8 +7,8 @@ I made my with https://codesandbox.io/s/github-profile-2ijk7
 Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.com/tskaggs/6394639
 -->
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/NULL__P01NT3R?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=a-barker-kr.a-barker-kr)
 
 ```javascript
@@ -18,7 +18,9 @@ const andrew = {
       2020: ["Contribute more to Open Source projects", "become a better leader"]
   },
   architecture: ["microservices", "event-driven", "design system pattern"],
-  funFact: "I love to playing 🎮 games in my free time"
+  funFact: "I love to playing 🎮 games in my free time and watching sports",
+  favoriteTeams: ["Denver Broncos", "Cincinnati Bearcats Football",
+                  "Cincinnati Bearcats Basketball", "FC Cincinnati", "Cincinnati Reds"]
 }
 ```
 <br>
