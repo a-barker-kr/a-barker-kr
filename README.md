@@ -35,7 +35,7 @@ const andrew = {
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.icons8.com/color/344/facebook.png" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.icons8.com/color/344/facebook.png" />][facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/fluent/344/twitter.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/fluent/344/linkedin.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/windows/344/instagram-new.png" />][instagram]
@@ -69,6 +69,7 @@ const andrew = {
 
 ### My Recent Commits
 <!-- START gadpp -->
+- a-barker-kr/spotify-now-playing, [refs/heads/master@bc6557749f868c396713743697124b4c89dada65](https://github.com/a-barker-kr/spotify-now-playing/commit/bc6557749f868c396713743697124b4c89dada65)
 
 ---
 
@@ -86,6 +87,12 @@ const andrew = {
 
 
 [twitter]: https://twitter.com/null__p01nt3r
+<<<<<<< HEAD
 [facebook]: https://youtube.com/barker3
 [instagram]: https://instagram.com/null__p01nt3r
 [linkedin]: https://linkedin.com/in/null-p01nt3r
+=======
+[facebook]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/null__p01nt3r
+[linkedin]: https://linkedin.com/in/codeSTACKr
+>>>>>>> 69f9b611f3aa96c63cf1bba827b823f50334b036
