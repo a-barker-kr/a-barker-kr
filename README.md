@@ -85,9 +85,14 @@ const andrew = {
 
 
  ### :zap: GitHub Stats
-
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=a-barker-kr)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
+ 
+ <a href="https://github.com/a-barker-kr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-barker-kr&count_private=true&show_icons=true&theme=dark&title_color=E00122&text_color=FFFFFF&icon_color=E00122&hide_border=true)](https://github.com/a-barker-kr/a-barker-kr" />
+</a>
+<a href="https://github.com/a-barker-kr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-barker-kr&layout=compact&langs_count=8&theme=dark&title_color=E00122&text_color=FFFFFF" />
+</a>
 
 [twitter]: https://twitter.com/null__p01nt3r
 [facebook]: https://facebook.com/barker3
