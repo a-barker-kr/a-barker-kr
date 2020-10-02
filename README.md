@@ -40,6 +40,7 @@ const andrew = {
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/fluent/344/linkedin.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/windows/344/instagram-new.png" />][instagram]
 
+
 <br />
 
 ### Languages and Tools:
@@ -87,12 +88,6 @@ const andrew = {
 
 
 [twitter]: https://twitter.com/null__p01nt3r
-<<<<<<< HEAD
-[facebook]: https://youtube.com/barker3
+[facebook]: https://facebook.com/barker3
 [instagram]: https://instagram.com/null__p01nt3r
 [linkedin]: https://linkedin.com/in/null-p01nt3r
-=======
-[facebook]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/null__p01nt3r
-[linkedin]: https://linkedin.com/in/codeSTACKr
->>>>>>> 69f9b611f3aa96c63cf1bba827b823f50334b036
