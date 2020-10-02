@@ -85,7 +85,7 @@ const andrew = {
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=a-barker-kr)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[twitter]: https://twitter.com/codeSTACKr
-[facebook]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/null__p01nt3r
+[facebook]: https://youtube.com/barker3
+[instagram]: https://instagram.com/null__p01nt3r
+[linkedin]: https://linkedin.com/in/null-p01nt3r
