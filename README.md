@@ -69,6 +69,7 @@ const andrew = {
 
 ### My Recent Commits
 <!-- START gadpp -->
+- a-barker-kr/spotify-now-playing, [refs/heads/master@bc6557749f868c396713743697124b4c89dada65](https://github.com/a-barker-kr/spotify-now-playing/commit/bc6557749f868c396713743697124b4c89dada65)
 
 ---
 
