@@ -17,7 +17,7 @@ const andrew = {
   goals: {
       2020: ["Contribute more to Open Source projects", "become a better leader"]
   },
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  architecture: ["microservices", "event-driven"],
   funFact: "I love to playing 🎮 games in my free time and watching sports",
   favoriteTeams: ["Denver Broncos", "Cincinnati Bearcats Football",
                   "Cincinnati Bearcats Basketball", "FC Cincinnati", "Cincinnati Reds"]
