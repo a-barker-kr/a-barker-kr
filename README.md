@@ -65,7 +65,7 @@ const andrew = {
 <img align="left" alt="Azure" width="26px" src="https://img.icons8.com/color/452/azure-1.png" />
 <img align="left" alt="IDEA IntelliJ" width="26px" src="https://img.icons8.com/color/344/intellij-idea.png" />
 <img align="left" alt="Typescript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
-<img align="left" alt="Dialogflow" width="26px" src="https://www.pikpng.com/pngl/b/252-2520835_dialogflow-nodejs-client-app-google-dialogflow-icon-transparent.png" />
+
 
 <br />
 <br />
